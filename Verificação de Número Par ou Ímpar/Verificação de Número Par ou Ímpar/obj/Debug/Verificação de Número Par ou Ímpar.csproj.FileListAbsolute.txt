@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\bin\Debug\Verificação de Número Par ou Ímpar.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\bin\Debug\Verificação de Número Par ou Ímpar.exe
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\bin\Debug\Verificação de Número Par ou Ímpar.pdb
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\obj\Debug\Verificação de Número Par ou Ímpar.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\obj\Debug\Verificação de Número Par ou Ímpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\obj\Debug\Verificação de Número Par ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\obj\Debug\Verificação de Número Par ou Ímpar.exe
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Numero_Par_ou_impar\Verificação de Número Par ou Ímpar\Verificação de Número Par ou Ímpar\obj\Debug\Verificação de Número Par ou Ímpar.pdb
